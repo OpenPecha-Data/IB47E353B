@@ -1,0 +1,104 @@
+id: b2ca695dd0e94a7e9a4dc58eb49d7e2e
+annotation_type: Segment
+revision: '00001'
+annotations:
+  18e8dfb99eb44fa8815deef9445f1814:
+    span:
+      start: 0
+      end: 97
+    metadata: {}
+  0934ba7e7d5b4950b96b3887d34ea00f:
+    span:
+      start: 100
+      end: 196
+    metadata: {}
+  8aabe67edb924c5e81e8fc8119b18a15:
+    span:
+      start: 199
+      end: 294
+    metadata: {}
+  bace81c3687e4d68a3cd3d8e132af959:
+    span:
+      start: 297
+      end: 397
+    metadata: {}
+  c116bb0457b441f691e7b55de9c3d49a:
+    span:
+      start: 400
+      end: 497
+    metadata: {}
+  87b56cfb909b43bda952315fb94cc47d:
+    span:
+      start: 500
+      end: 592
+    metadata: {}
+  57ea0fdc6d214fcc9c851eea0a49c94d:
+    span:
+      start: 595
+      end: 691
+    metadata: {}
+  7d6f5a673e4d4366b4b439537dc5592d:
+    span:
+      start: 694
+      end: 793
+    metadata: {}
+  1fef13d3e632494f82b1f2aac7a98f17:
+    span:
+      start: 796
+      end: 890
+    metadata: {}
+  344bb4f4008a4655beaf467fb17f6d53:
+    span:
+      start: 893
+      end: 991
+    metadata: {}
+  14449bcd3bed415bb221a1a67f59ab79:
+    span:
+      start: 994
+      end: 1093
+    metadata: {}
+  fbd20ad8bf9046b791a2649ceb951e6e:
+    span:
+      start: 1096
+      end: 1191
+    metadata: {}
+  3f7b66ca45fd421b9efce466ccfa9a0a:
+    span:
+      start: 1194
+      end: 1293
+    metadata: {}
+  addf778b4b7e4a1b815e46d065ab1c96:
+    span:
+      start: 1296
+      end: 1391
+    metadata: {}
+  3f6883960f114a0a8e91354c8da1a0cd:
+    span:
+      start: 1394
+      end: 1494
+    metadata: {}
+  63b6992611bc47718f274beae7fdd7e8:
+    span:
+      start: 1497
+      end: 1592
+    metadata: {}
+  650b64ebdaeb4582a64aa3a18acc3675:
+    span:
+      start: 1595
+      end: 1682
+    metadata: {}
+  9242d165c698408f933646a5a5b4d63c:
+    span:
+      start: 1685
+      end: 1784
+    metadata: {}
+  cb341ae0bd2b4b17b00fd9ac87241a00:
+    span:
+      start: 1787
+      end: 1888
+    metadata: {}
+  1770efda50074e61be751b0cceb3b698:
+    span:
+      start: 1891
+      end: 1997
+    metadata: {}

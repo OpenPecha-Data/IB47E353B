@@ -1,0 +1,104 @@
+id: 337ba283606a4d608c6f318300646f87
+annotation_type: Segment
+revision: '00001'
+annotations:
+  75c8ac9754f540888160acfc1fa05a59:
+    span:
+      start: 0
+      end: 104
+    metadata: {}
+  b11f62bb3a104d7684ff8596628e6d42:
+    span:
+      start: 107
+      end: 206
+    metadata: {}
+  6e9bd669fce04ab5af44ef7ada5ceef6:
+    span:
+      start: 209
+      end: 314
+    metadata: {}
+  2749ece37d4e4c72aec9a74ad628ac1c:
+    span:
+      start: 317
+      end: 419
+    metadata: {}
+  dc0c7fd56ede465a81d60ce69fca067c:
+    span:
+      start: 422
+      end: 516
+    metadata: {}
+  e61e3d4315dc4fa4ad56b6f7bd63b014:
+    span:
+      start: 519
+      end: 619
+    metadata: {}
+  f730ceb01d48485ab777a8c2c1d4a3f2:
+    span:
+      start: 622
+      end: 724
+    metadata: {}
+  01bd7c1aba6d44b5934e29cd7958e8ed:
+    span:
+      start: 727
+      end: 834
+    metadata: {}
+  57037fe6b853473484a2bf6f2cf56d19:
+    span:
+      start: 837
+      end: 935
+    metadata: {}
+  36c9ac48acf1454789eb153619905660:
+    span:
+      start: 938
+      end: 1035
+    metadata: {}
+  9d6a741039c04ff1be3fe0992c2c9ff4:
+    span:
+      start: 1038
+      end: 1142
+    metadata: {}
+  15cfa6526388470488f58f8652f0531f:
+    span:
+      start: 1145
+      end: 1249
+    metadata: {}
+  32d8571f381d4a25b16ad4a22fe11000:
+    span:
+      start: 1252
+      end: 1349
+    metadata: {}
+  805c1e2474354a578537e3845abddde5:
+    span:
+      start: 1352
+      end: 1453
+    metadata: {}
+  0ed1ad3bdcfe447e81a6bc97ba407f8b:
+    span:
+      start: 1456
+      end: 1555
+    metadata: {}
+  fa28f3453b4241688c8bfdd9a4c03f16:
+    span:
+      start: 1558
+      end: 1657
+    metadata: {}
+  08438ede3c3046d2b57193fa33c20adf:
+    span:
+      start: 1660
+      end: 1758
+    metadata: {}
+  9ec2c2df2bb745f3affdbfd24be6a853:
+    span:
+      start: 1761
+      end: 1862
+    metadata: {}
+  dc147428b7f14cf582687b9acf9093f2:
+    span:
+      start: 1865
+      end: 1960
+    metadata: {}
+  500081720a314c149dab510959157fda:
+    span:
+      start: 1963
+      end: 2067
+    metadata: {}

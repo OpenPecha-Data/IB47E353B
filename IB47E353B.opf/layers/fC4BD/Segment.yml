@@ -1,0 +1,104 @@
+id: e355b44480fd4ad5bd190090137648bb
+annotation_type: Segment
+revision: '00001'
+annotations:
+  2c7e37fad4274d1480032559f669909d:
+    span:
+      start: 0
+      end: 99
+    metadata: {}
+  b9dbc991df604da08eac56e34d41bfb7:
+    span:
+      start: 102
+      end: 200
+    metadata: {}
+  1c75f34240ad48028782d8b7138c28c8:
+    span:
+      start: 203
+      end: 299
+    metadata: {}
+  2d6fd96f90ba473d8e1426e22169c34f:
+    span:
+      start: 302
+      end: 398
+    metadata: {}
+  937fb5801e7449b1ba974fd1400efcdd:
+    span:
+      start: 401
+      end: 494
+    metadata: {}
+  12bc58b2653c4cfa895107eebedd03ed:
+    span:
+      start: 497
+      end: 594
+    metadata: {}
+  38f612f2c2774b1d9e785e83f8058043:
+    span:
+      start: 597
+      end: 700
+    metadata: {}
+  cd808c20cac64cb8895b41e590945c4c:
+    span:
+      start: 703
+      end: 803
+    metadata: {}
+  28a000bcae8e4a299907b882e4363d04:
+    span:
+      start: 806
+      end: 910
+    metadata: {}
+  2404b60921674283846b1970548003e9:
+    span:
+      start: 913
+      end: 1009
+    metadata: {}
+  5436c27dd62e4cfba8ffa9581c700ea1:
+    span:
+      start: 1012
+      end: 1108
+    metadata: {}
+  69329fd0a7af427883e66614c8e45531:
+    span:
+      start: 1111
+      end: 1207
+    metadata: {}
+  21d4478a1e5b4f1c9bef03ca3c748144:
+    span:
+      start: 1210
+      end: 1313
+    metadata: {}
+  84b1d6d567284fe487dd8d29d22000b5:
+    span:
+      start: 1316
+      end: 1410
+    metadata: {}
+  7eea4b1e1f07433687535681a89c42b5:
+    span:
+      start: 1413
+      end: 1504
+    metadata: {}
+  1739586e8f6e4e43a56e0fbf16707376:
+    span:
+      start: 1507
+      end: 1607
+    metadata: {}
+  6a4854fac97d4f5b893d47d964b37396:
+    span:
+      start: 1610
+      end: 1718
+    metadata: {}
+  29260cc9f55142ba88714025d1e6b946:
+    span:
+      start: 1721
+      end: 1825
+    metadata: {}
+  431e25b7771649f1968497f59f1789f7:
+    span:
+      start: 1828
+      end: 1926
+    metadata: {}
+  27e3b0244b5b417fa7fc9b854a7995d7:
+    span:
+      start: 1929
+      end: 2027
+    metadata: {}

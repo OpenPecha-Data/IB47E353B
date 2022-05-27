@@ -1,0 +1,104 @@
+id: 04baa9c23f4945909e3e9b689e5cff93
+annotation_type: Segment
+revision: '00001'
+annotations:
+  b1c25db798cb4a2181fa72ad62de59db:
+    span:
+      start: 0
+      end: 95
+    metadata: {}
+  be3349e279914b2dbb7bb6ccd6fdcc79:
+    span:
+      start: 98
+      end: 193
+    metadata: {}
+  03079de1a16c44b2887ba82c75fdbc9f:
+    span:
+      start: 196
+      end: 293
+    metadata: {}
+  4c97441457594f03b6e6ddc886cc0528:
+    span:
+      start: 296
+      end: 395
+    metadata: {}
+  2914908ca25a4b9088ede80f2520b32b:
+    span:
+      start: 398
+      end: 486
+    metadata: {}
+  0d8a53e764f64e24ac833379413cfffd:
+    span:
+      start: 489
+      end: 639
+    metadata: {}
+  a97ac9407b954c548bbb383e9d740230:
+    span:
+      start: 642
+      end: 766
+    metadata: {}
+  9666103d3a204d139cc3c738d8570236:
+    span:
+      start: 769
+      end: 873
+    metadata: {}
+  2a87b14907c6494f89a8d0a424d5a224:
+    span:
+      start: 876
+      end: 966
+    metadata: {}
+  da926dc46298496ab1a479a360ae7573:
+    span:
+      start: 969
+      end: 1059
+    metadata: {}
+  0438529fce9c4f81afbe91a000e229e4:
+    span:
+      start: 1062
+      end: 1192
+    metadata: {}
+  9b55bc3c6ebf41c3994205bc46062db6:
+    span:
+      start: 1195
+      end: 1293
+    metadata: {}
+  71a92b67961f4698a75146f14dcc5451:
+    span:
+      start: 1296
+      end: 1398
+    metadata: {}
+  d62a4957820f49ce835c68d5b9150086:
+    span:
+      start: 1401
+      end: 1505
+    metadata: {}
+  45209d2cb3ef4274ac332d1152852e8f:
+    span:
+      start: 1508
+      end: 1604
+    metadata: {}
+  705dfe5c6f4f4cd89ecb1de208814c36:
+    span:
+      start: 1607
+      end: 1707
+    metadata: {}
+  bf9980e606614ba8b83ce9cb9b3041d7:
+    span:
+      start: 1710
+      end: 1808
+    metadata: {}
+  4a2602004e3943e78f11ca1ccf6bb76d:
+    span:
+      start: 1811
+      end: 1898
+    metadata: {}
+  e16d03e9bab647109f5ea4b1c1c068c7:
+    span:
+      start: 1901
+      end: 2010
+    metadata: {}
+  36abbd6cd9924681a16641cc01d3d880:
+    span:
+      start: 2013
+      end: 2113
+    metadata: {}
